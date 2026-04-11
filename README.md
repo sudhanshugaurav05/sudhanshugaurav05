@@ -1,3 +1,8 @@
+<div align="center" style="width:100%;">
+<img src="[https://drive.google.com/uc?export=view&id=1oIsSiIc3_29-umxax-igAw7z0tnelFsx](https://drive.google.com/file/d/17dNKWu-A51RBw1FICiQiM1gUz2uzWs92/view)" 
+style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" />
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/me_gamechanger?igsh=MWliMmxheHNncWl0OA== ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu-gaurav-a227b9239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshu29gaurav@gmail.com) 
