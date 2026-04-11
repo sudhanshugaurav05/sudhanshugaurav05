@@ -1,6 +1,6 @@
 <div align="center" style="width:100%;">
-<img src="(https://drive.google.com/file/d/17dNKWu-A51RBw1FICiQiM1gUz2uzWs92/view)" 
-style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" />
+<img src="https://drive.google.com/uc?export=view&id=1oIsSiIc3_29-umxax-igAw7z0tnelFsx" 
+style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Sanyam PatelBanner" />
 </div>
 
 
