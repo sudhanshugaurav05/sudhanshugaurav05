@@ -1,136 +1,143 @@
 <!-- =========================================================
-     SUDHANSHU GAURAV — ANIMATED GITHUB PROFILE README
-     Replace every YOUR_* placeholder before publishing.
+  SUDHANSHU GAURAV — COSMIC / TERMINAL GITHUB PROFILE
+  Replace all placeholders beginning with YOUR_
 ========================================================== -->
 
-<!-- Animated Header -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,40:0F172A,75:0EA5E9,100:22D3EE&text=Sudhanshu%20Gaurav&fontColor=F8FAFC&fontSize=48&fontAlignY=42&desc=Cloud%20Computing%20%7C%20Java%20%7C%20DevOps%20%7C%20Full-Stack&descAlignY=62&descSize=18&animation=fadeIn"/>
-</p>
+<div align="center">
 
-<!-- Animated Typing -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Sudhanshu+Gaurav;MCA+Cloud+Computing+Student+%40+Parul+University;Building+Cloud%2C+DevOps+and+Full-Stack+Projects" alt="Animated introduction"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=6,11,20"/>
 
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile views"/>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=0EA5E9&labelColor=020617" alt="Followers"/>
-  </a>
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22C55E?style=for-the-badge&labelColor=020617" alt="Open to internships"/>
-</p>
+<br/>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=020617" alt="LeetCode"/>
-  </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=2600&pause=700&color=A855F7&center=true&vCenter=true&width=950&height=70&lines=%3E+Hello+World%2C+I%27m+Sudhanshu+Gaurav;%3E+Cloud+Computing+%7C+Java+%7C+DevOps;%3E+I+Build%2C+Deploy+and+Keep+Learning" alt="Animated typing"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MCA-Cloud%20Computing-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parul-University-EC4899?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=handshake&logoColor=white"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VISITORS&color=8B5CF6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat-square&color=EC4899"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=flat-square&label=TOTAL%20STARS&color=06B6D4"/>
+
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
-
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-```javascript
-const sudhanshu = {
-  education: "MCA — Parul University",
-  specialization: "Cloud Computing",
-  location: "India",
-  roles: [
-    "Cloud / DevOps Intern",
-    "Java Developer",
-    "Full-Stack Developer"
-  ],
-  interests: [
-    "AWS & Multi-Cloud",
-    "Docker & Kubernetes",
-    "Java & DSA",
-    "SQL & Databases",
-    "UI/UX"
-  ],
-  currentlyLearning: [
-    "CI/CD",
-    "Kubernetes",
-    "React & Next.js",
-    "Cloud Architecture"
-  ],
-  motto: "Learn. Build. Improve. Repeat."
-};
+## `> whoami`
+
+```yaml
+name: Sudhanshu Gaurav
+degree: Master of Computer Applications
+specialization: Cloud Computing
+college: Parul University
+location: India
+
+interests:
+  - Cloud Architecture
+  - DevOps and Automation
+  - Java and Data Structures
+  - SQL and Databases
+  - Full-Stack Development
+
+career_target:
+  - Cloud Intern
+  - DevOps Intern
+  - Software Developer Intern
+
+currently_learning:
+  - Docker and Kubernetes
+  - CI/CD Pipelines
+  - AWS Architecture
+  - React and Next.js
 ```
 
 </td>
-<td width="42%" align="center">
+<td width="38%" align="center" valign="middle">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile summary"/>
+<img width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=midnight_purple" alt="Profile stats"/>
 
 </td>
 </tr>
 </table>
 
-- 🎓 Pursuing **MCA in Cloud Computing** at **Parul University**
-- ☁️ Building practical projects with **AWS, GCP and Azure**
-- 💻 Working with **Java, SQL, Web Development and MERN**
-- ⚙️ Exploring **DevOps, Linux, Docker, Kubernetes and CI/CD**
-- 🤝 Open to **internships, collaborations and open-source work**
-- 🎯 Goal: Become a skilled **Cloud and DevOps Engineer**
+## `> about --me`
+
+- ☁️ Building practical projects using **cloud and web technologies**
+- 💻 Comfortable with **Java, SQL, HTML, CSS, JavaScript and PHP**
+- 🛠️ Exploring **AWS, GCP, Azure, Docker, Kubernetes and Linux**
+- 🧠 Improving problem-solving through **DSA and coding practice**
+- 🤝 Interested in **internships, collaborations and open source**
+- 🚀 Long-term goal: become a strong **Cloud and DevOps Engineer**
 
 ---
 
-## ⚡ Tech Arsenal
+## `> connect --social`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Message%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## `> ls ./tech-stack`
 
 ### Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&perline=8&theme=dark" alt="Languages"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" alt="Languages"/>
+</div>
 
-### Frontend
+### Web Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,figma&perline=8&theme=dark" alt="Frontend"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,express,php&theme=dark" alt="Web technologies"/>
+</div>
 
-### Backend & Databases
+### Databases
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase&perline=8&theme=dark" alt="Backend and databases"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="Databases"/>
+</div>
 
-### Cloud & DevOps
+### Cloud and DevOps
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux,bash&perline=8&theme=dark" alt="Cloud and DevOps"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux,bash&theme=dark" alt="Cloud and DevOps"/>
+</div>
 
-### Tools
+### Tools and Design
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,postman,npm,vercel&perline=8&theme=dark" alt="Tools"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,figma,postman,vercel&theme=dark" alt="Tools"/>
+</div>
 
 ---
 
-## 🚀 Project Showcase
+## `> cat featured-projects.json`
 
 <table>
 <tr>
@@ -138,33 +145,31 @@ const sudhanshu = {
 
 ### ☁️ Multi-Cloud Cost Optimizer
 
-A cloud cost optimization platform that helps identify idle resources, estimate potential savings and present actionable recommendations.
+A cloud cost optimization platform that identifies underused resources, estimates potential savings and suggests improvement actions.
 
-**Stack**
+**Core technologies**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb)
-![Express](https://img.shields.io/badge/Express-020617?style=flat-square&logo=express)
-![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs)
-![AWS](https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonwebservices)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices)
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CLOUD_OPTIMIZER_REPO)
+[![View Project](https://img.shields.io/badge/OPEN_PROJECT-7C3AED?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CLOUD_PROJECT_REPO)
 
 </td>
 <td width="50%" valign="top">
 
-### 🖼️ Serverless Image Resizer
+### 🖼️ AWS Serverless Image Resizer
 
-An event-driven image-processing system that automatically resizes uploaded images using AWS serverless services.
+An event-driven cloud application that automatically resizes uploaded images using serverless AWS services.
 
-**Stack**
+**Core technologies**
 
-![AWS Lambda](https://img.shields.io/badge/Lambda-020617?style=flat-square&logo=awslambda)
-![Amazon S3](https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3)
-![API Gateway](https://img.shields.io/badge/API_Gateway-020617?style=flat-square&logo=amazonapigateway)
-![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python)
+![AWS Lambda](https://img.shields.io/badge/Lambda-111827?style=flat-square&logo=awslambda)
+![Amazon S3](https://img.shields.io/badge/S3-111827?style=flat-square&logo=amazons3)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python)
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_IMAGE_RESIZER_REPO)
+[![View Project](https://img.shields.io/badge/OPEN_PROJECT-EC4899?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_IMAGE_RESIZER_REPO)
 
 </td>
 </tr>
@@ -174,33 +179,33 @@ An event-driven image-processing system that automatically resizes uploaded imag
 
 ### 🩸 Life Drop
 
-A blood-donation web application that connects donors and recipients through an accessible and responsive interface.
+A web application that connects blood donors and recipients through a simple and accessible interface.
 
-**Stack**
+**Core technologies**
 
-![HTML](https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-020617?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql)
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_LIFE_DROP_REPO)
+[![View Project](https://img.shields.io/badge/OPEN_PROJECT-06B6D4?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_LIFE_DROP_REPO)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 SG-MART
 
-A responsive e-commerce interface designed to provide a clean product-browsing experience across different devices.
+A responsive e-commerce website focused on clean product browsing and a simple customer experience.
 
-**Stack**
+**Core technologies**
 
-![HTML](https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-020617?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-111827?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111827?style=flat-square&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SG_MART_REPO)
+[![View Project](https://img.shields.io/badge/OPEN_PROJECT-F59E0B?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SG_MART_REPO)
 
 </td>
 </tr>
@@ -208,94 +213,103 @@ A responsive e-commerce interface designed to provide a clean product-browsing e
 
 ---
 
-## 📊 GitHub Command Center
+## `> github --analytics`
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=0EA5E9&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideNums=E2E8F0&currStreakNum=F8FAFC&dates=94A3B8" alt="GitHub streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&langs_count=10" alt="Top languages"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=percentile" alt="GitHub stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub streak"/>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=midnight_purple&utcOffset=5.5" alt="Productive time"/>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=E2E8F0&line=22D3EE&point=0EA5E9&area=true&hide_border=true" alt="Contribution graph"/>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## `> github --activity`
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<div align="center">
 
-> Add the included `.github/workflows/snake.yml` file to activate this animation.
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C4B5FD&line=A855F7&point=EC4899&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
 
 ---
 
-## 🏆 Achievement Wall
+## `> ./snake-animation`
 
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+> Upload the included `.github/workflows/snake.yml` file to enable this animation.
 
 ---
 
-## 🎯 2026 Focus
+## `> cat achievements.log`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS_Cloud-Practice_&_Projects-0EA5E9?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_&_DSA-Problem_Solving-22D3EE?style=for-the-badge&logo=openjdk&logoColor=020617"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker_&_Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full--Stack-React_&_Node.js-06B6D4?style=for-the-badge&logo=react&logoColor=020617"/>
-</p>
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=7&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `> roadmap --2026`
 
 ```text
-☁️ Build cloud-native projects
-⚙️ Learn CI/CD and infrastructure automation
-🧠 Strengthen Java, DSA and SQL
-🌍 Contribute to open-source projects
-💼 Secure a Cloud / DevOps internship
+[████████████████░░░░] AWS and Cloud Fundamentals
+[██████████████░░░░░░] Java and Data Structures
+[███████████████░░░░░] SQL and Database Management
+[██████████░░░░░░░░░░] React and Next.js
+[████████░░░░░░░░░░░░] Docker and Kubernetes
+[███████░░░░░░░░░░░░░] CI/CD and DevOps Automation
 ```
 
+### Current Goals
+
+- Build more cloud-native projects
+- Improve Java and DSA problem-solving
+- Learn containerization and orchestration
+- Contribute to open-source projects
+- Secure a Cloud, DevOps or Software Development internship
+
 ---
 
-## 💬 Random Developer Quote
+## `> fortune`
 
-<p align="center">
-  <img width="75%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Developer quote"/>
-</p>
+<div align="center">
+
+<img width="76%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer quote"/>
+
+</div>
 
 ---
 
-## 🤝 Let’s Build Something Together
+<div align="center">
 
-<p align="center">
-  I am interested in collaborating on cloud, DevOps, Java, full-stack and open-source projects.
-</p>
+### `> echo "Let's connect and build something meaningful."`
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_CONNECT-22D3EE?style=for-the-badge&logo=gmail&logoColor=020617" alt="Contact me"/>
-  </a>
-</p>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/START_A_CONVERSATION-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <b>“Code with purpose. Deploy with confidence. Keep learning.”</b>
-</p>
+<br/><br/>
 
-<!-- Animated Footer -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22D3EE,45:0EA5E9,100:020617&section=footer"/>
-</p>
+<b>Learn continuously • Build practically • Deploy confidently</b>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=20,11,6"/>
+
+</div>
