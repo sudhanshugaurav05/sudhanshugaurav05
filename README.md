@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=gsap&logoColor=0F172A" alt="GSAP"/>
+<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=0F172A" alt="GSAP"/>
 
 ### Database and Cloud
 
@@ -60,19 +60,31 @@
 
 ---
 
-## 📊 GitHub Highlights
+## 🎯 Currently Focused On
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudhanshugaurav05&theme=tokyonight" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/Java-Problem%20Solving-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/DSA-Practice-2563EB?style=for-the-badge" alt="DSA"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Skills-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%26%20GCP-0EA5E9?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
+<img src="https://img.shields.io/badge/GSAP-Web%20Animations-0AE448?style=for-the-badge&logo=greensock&logoColor=111827" alt="GSAP"/>
 
-<img width="48%" src="https://streak-stats.demolab.com?user=sudhanshugaurav05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
-<br/>
+---
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudhanshugaurav05&theme=tokyonight" alt="Languages used in repositories"/>
+## 🔥 GitHub Activity
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudhanshugaurav05&theme=tokyonight" alt="Most committed languages"/>
+<div align="center">
+
+<img width="58%" src="https://streak-stats.demolab.com?user=sudhanshugaurav05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<a href="https://github.com/sudhanshugaurav05?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories"/>
+</a>
 
 </div>
 
