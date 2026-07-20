@@ -1,136 +1,170 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Sudhanshu%20Gaurav&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Cloud%20Computing%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58"/>
+<!-- =========================================================
+     SUDHANSHU GAURAV — ANIMATED GITHUB PROFILE README
+     Replace every YOUR_* placeholder before publishing.
+========================================================== -->
 
-<div align="center">
+<!-- Animated Header -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,40:0F172A,75:0EA5E9,100:22D3EE&text=Sudhanshu%20Gaurav&fontColor=F8FAFC&fontSize=48&fontAlignY=42&desc=Cloud%20Computing%20%7C%20Java%20%7C%20DevOps%20%7C%20Full-Stack&descAlignY=62&descSize=18&animation=fadeIn"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=850&lines=MCA+Student+specializing+in+Cloud+Computing;AWS+%7C+Java+%7C+SQL+%7C+Web+Development;Learning+DevOps%2C+Kubernetes+and+Multi-Cloud;Building+practical+projects+and+solving+real+problems" alt="Typing SVG" />
+<!-- Animated Typing -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Hi+%F0%9F%91%8B+I%27m+Sudhanshu+Gaurav;MCA+Cloud+Computing+Student+%40+Parul+University;Building+Cloud%2C+DevOps+and+Full-Stack+Projects" alt="Animated introduction"/>
+  </a>
+</p>
 
-<br/>
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=0EA5E9&labelColor=020617" alt="Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-22C55E?style=for-the-badge&labelColor=020617" alt="Open to internships"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=92FE9D&labelColor=111827" alt="GitHub Followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships-00C9FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Internships"/>
-
-</div>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/>
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=020617" alt="LeetCode"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> About Me
 
-```yaml
-name: Sudhanshu Gaurav
-education: MCA at Parul University
-specialization: Cloud Computing
-location: India
-current_focus:
-  - Cloud Computing
-  - DevOps
-  - Java and Data Structures
-  - SQL and Database Management
-  - Full-Stack Web Development
-career_goal: Cloud / DevOps / Software Development Internship
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```javascript
+const sudhanshu = {
+  education: "MCA — Parul University",
+  specialization: "Cloud Computing",
+  location: "India",
+  roles: [
+    "Cloud / DevOps Intern",
+    "Java Developer",
+    "Full-Stack Developer"
+  ],
+  interests: [
+    "AWS & Multi-Cloud",
+    "Docker & Kubernetes",
+    "Java & DSA",
+    "SQL & Databases",
+    "UI/UX"
+  ],
+  currentlyLearning: [
+    "CI/CD",
+    "Kubernetes",
+    "React & Next.js",
+    "Cloud Architecture"
+  ],
+  motto: "Learn. Build. Improve. Repeat."
+};
 ```
 
-* 🎓 Pursuing **MCA with specialization in Cloud Computing** at **Parul University**
-* ☁️ Interested in **AWS, GCP, Azure, DevOps, Docker and Kubernetes**
-* 💻 Skilled in **Java, SQL, HTML, CSS, JavaScript, PHP and basic Python**
-* 🚀 Building cloud-based and full-stack projects
-* 🌱 Currently improving **DSA, React, Next.js, Linux and CI/CD**
-* 🤝 Open to internships, collaborations and beginner-friendly open-source projects
-* ⚡ I enjoy converting ideas into practical and user-friendly applications
+</td>
+<td width="42%" align="center">
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" alt="Profile summary"/>
+
+</td>
+</tr>
+</table>
+
+- 🎓 Pursuing **MCA in Cloud Computing** at **Parul University**
+- ☁️ Building practical projects with **AWS, GCP and Azure**
+- 💻 Working with **Java, SQL, Web Development and MERN**
+- ⚙️ Exploring **DevOps, Linux, Docker, Kubernetes and CI/CD**
+- 🤝 Open to **internships, collaborations and open-source work**
+- 🎯 Goal: Become a skilled **Cloud and DevOps Engineer**
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ Tech Arsenal
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-</div>
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript&perline=8&theme=dark" alt="Languages"/>
 </p>
 
-### Frontend Development
+### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs&theme=dark" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,figma&perline=8&theme=dark" alt="Frontend"/>
 </p>
 
-### Backend and Databases
+### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&theme=dark" alt="Backend and Database Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase&perline=8&theme=dark" alt="Backend and databases"/>
 </p>
 
-### Cloud and DevOps
+### Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux&theme=dark" alt="Cloud and DevOps Skills"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,linux,bash&perline=8&theme=dark" alt="Cloud and DevOps"/>
 </p>
 
-### Tools and Platforms
+### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,figma,postman&theme=dark" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,flutter,postman,npm,vercel&perline=8&theme=dark" alt="Tools"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project Showcase
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Cost Optimization Tool
+### ☁️ Multi-Cloud Cost Optimizer
 
-A multi-cloud cost analysis platform designed to identify unused resources, estimate savings and provide optimization suggestions.
+A cloud cost optimization platform that helps identify idle resources, estimate potential savings and present actionable recommendations.
 
-**Technologies:** MERN Stack, AWS, Cloud APIs
+**Stack**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_CLOUD_PROJECT_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb)
+![Express](https://img.shields.io/badge/Express-020617?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs)
+![AWS](https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonwebservices)
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_CLOUD_OPTIMIZER_REPO)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🖼️ Serverless Image Resizer
 
-An AWS-based image resizing solution that automatically processes uploaded images using serverless cloud services.
+An event-driven image-processing system that automatically resizes uploaded images using AWS serverless services.
 
-**Technologies:** AWS S3, Lambda, API Gateway
+**Stack**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_IMAGE_RESIZER_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+![AWS Lambda](https://img.shields.io/badge/Lambda-020617?style=flat-square&logo=awslambda)
+![Amazon S3](https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3)
+![API Gateway](https://img.shields.io/badge/API_Gateway-020617?style=flat-square&logo=amazonapigateway)
+![Python](https://img.shields.io/badge/Python-020617?style=flat-square&logo=python)
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_IMAGE_RESIZER_REPO)
 
 </td>
 </tr>
@@ -140,27 +174,33 @@ An AWS-based image resizing solution that automatically processes uploaded image
 
 ### 🩸 Life Drop
 
-A web-based blood donation platform that helps connect donors with people who need blood.
+A blood-donation web application that connects donors and recipients through an accessible and responsive interface.
 
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
+**Stack**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_LIFE_DROP_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+![HTML](https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-020617?style=flat-square&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-020617?style=flat-square&logo=mysql)
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_LIFE_DROP_REPO)
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🛒 SG-MART
 
-An e-commerce website with a responsive interface and product-focused user experience.
+A responsive e-commerce interface designed to provide a clean product-browsing experience across different devices.
 
-**Technologies:** HTML, CSS, JavaScript, Bootstrap
+**Stack**
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_SG_MART_REPO">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+![HTML](https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-020617?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript)
+
+[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SG_MART_REPO)
 
 </td>
 </tr>
@@ -168,82 +208,94 @@ An e-commerce website with a responsive interface and product-focused user exper
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Command Center
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=0EA5E9&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=0EA5E9&currStreakLabel=22D3EE&sideNums=E2E8F0&currStreakNum=F8FAFC&dates=94A3B8" alt="GitHub streak"/>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
-
-</div>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&langs_count=10" alt="Top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=github_dark&utcOffset=5.5" alt="Productive time"/>
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=020617&color=E2E8F0&line=22D3EE&point=0EA5E9&area=true&hide_border=true" alt="Contribution graph"/>
+</p>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
+> Add the included `.github/workflows/snake.yml` file to activate this animation.
 
 ---
 
-## 🎯 Current Learning Roadmap
+## 🏆 Achievement Wall
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
+</p>
+
+---
+
+## 🎯 2026 Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Cloud-Practice_&_Projects-0EA5E9?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_&_DSA-Problem_Solving-22D3EE?style=for-the-badge&logo=openjdk&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/DevOps-Docker_&_Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-React_&_Node.js-06B6D4?style=for-the-badge&logo=react&logoColor=020617"/>
+</p>
 
 ```text
-AWS Cloud Practitioner  ████████████████░░░░  80%
-Java and DSA            ██████████████░░░░░░  70%
-SQL and Databases       ███████████████░░░░░  75%
-React and Next.js       ██████████░░░░░░░░░░  50%
-Docker and Kubernetes   ████████░░░░░░░░░░░░  40%
-CI/CD and DevOps        ███████░░░░░░░░░░░░░  35%
+☁️ Build cloud-native projects
+⚙️ Learn CI/CD and infrastructure automation
+🧠 Strengthen Java, DSA and SQL
+🌍 Contribute to open-source projects
+💼 Secure a Cloud / DevOps internship
 ```
 
 ---
 
-## 💡 Developer Quote
+## 💬 Random Developer Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
-
-</div>
+<p align="center">
+  <img width="75%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Developer quote"/>
+</p>
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let’s Build Something Together
 
-I am interested in collaborating on:
+<p align="center">
+  I am interested in collaborating on cloud, DevOps, Java, full-stack and open-source projects.
+</p>
 
-* Cloud computing and DevOps projects
-* Java and DSA-based applications
-* Full-stack web applications
-* Open-source beginner projects
-* AWS serverless solutions
-* Multi-cloud cost optimization tools
+<p align="center">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-22D3EE?style=for-the-badge&logo=gmail&logoColor=020617" alt="Contact me"/>
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <b>“Code with purpose. Deploy with confidence. Keep learning.”</b>
+</p>
 
-### Show some ❤️ by starring my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
-
-</div>
+<!-- Animated Footer -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:22D3EE,45:0EA5E9,100:020617&section=footer"/>
+</p>
