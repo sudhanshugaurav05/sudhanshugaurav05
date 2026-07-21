@@ -79,12 +79,16 @@
 
 <div align="center">
 
-<img width="58%" src="https://streak-stats.demolab.com?user=sudhanshugaurav05&theme=tokyonight&hide_border=true"/>
+<img width="72%" src="./assets/github-activity-animation.svg" alt="Animated GitHub activity card"/>
 
 <br/><br/>
 
 <a href="https://github.com/sudhanshugaurav05?tab=repositories">
   <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sudhanshugaurav05?tab=overview">
+  <img src="https://img.shields.io/badge/View%20Contributions-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
