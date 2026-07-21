@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230">
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset=".55" stop-color="#172554"/><stop offset="1" stop-color="#164e63"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+</defs>
+<rect width="760" height="230" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="758" height="228" rx="19" fill="none" stroke="#38bdf8" stroke-opacity=".28"/>
+<text x="36" y="50" fill="#f8fafc" font-family="Arial" font-size="24" font-weight="700">GitHub Activity</text>
+<text x="36" y="78" fill="#94a3b8" font-family="Arial" font-size="15">Building projects and improving consistently</text>
+<g transform="translate(36 112)">
+<rect width="470" height="16" rx="8" fill="#1e293b"/>
+<rect width="90" height="16" rx="8" fill="url(#bar)"><animate attributeName="width" values="90;430;90" dur="4.2s" repeatCount="indefinite"/></rect>
+<circle cy="8" r="8" fill="#67e8f9"><animate attributeName="cx" values="90;430;90" dur="4.2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(36 160)" fill="#e2e8f0" font-family="Arial" font-size="15">
+<text x="0">Java</text><text x="95">DSA</text><text x="175">SQL</text><text x="250">AWS</text><text x="330">GCP</text><text x="405">Web</text>
+</g>
+<g transform="translate(575 58)">
+<circle cx="55" cy="55" r="46" fill="none" stroke="#1e293b" stroke-width="8"/>
+<circle cx="55" cy="55" r="46" fill="none" stroke="#38bdf8" stroke-width="8" stroke-linecap="round" stroke-dasharray="170 289">
+<animateTransform attributeName="transform" type="rotate" values="-90 55 55;270 55 55" dur="5s" repeatCount="indefinite"/>
+</circle>
+<text x="55" y="52" text-anchor="middle" fill="#f8fafc" font-family="Arial" font-size="18" font-weight="700">BUILD</text>
+<text x="55" y="74" text-anchor="middle" fill="#67e8f9" font-family="Arial" font-size="14">LEARN</text>
+</g>
+<text x="36" y="207" fill="#67e8f9" font-family="monospace" font-size="16">&gt; Learn • Build • Commit • Improve
+<animate attributeName="opacity" values=".45;1;.45" dur="2s" repeatCount="indefinite"/></text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190">
+<rect width="760" height="190" rx="18" fill="#0f172a"/>
+<circle cx="28" cy="25" r="6" fill="#ef4444"/><circle cx="48" cy="25" r="6" fill="#f59e0b"/><circle cx="68" cy="25" r="6" fill="#22c55e"/>
+<g font-family="monospace" font-size="18">
+<text x="28" y="70" fill="#38bdf8">&gt; whoami</text>
+<text x="28" y="102" fill="#e2e8f0">Sudhanshu Gaurav — MCA Cloud Computing Student</text>
+<text x="28" y="137" fill="#38bdf8">&gt; current_focus</text>
+<text x="28" y="169" fill="#e2e8f0">Java • DSA • SQL • AWS • GCP • Web Development</text>
+<rect x="648" y="151" width="11" height="22" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/></rect>
+</g></svg>
