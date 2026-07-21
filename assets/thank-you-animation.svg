@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="100">
-<text x="360" y="58" text-anchor="middle" font-family="Arial" font-size="28" font-weight="700" fill="#38bdf8">
-Thanks for visiting my profile 👋
-<animate attributeName="opacity" values=".55;1;.55" dur="2.4s" repeatCount="indefinite"/>
-</text></svg>
