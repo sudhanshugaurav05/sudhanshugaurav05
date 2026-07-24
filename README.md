@@ -42,10 +42,8 @@
 <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"/>
 
 ### Web Development
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark"/>
 
-<br/><br/>
-<img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=0F172A"/>
 
 ### Database and Cloud
 <img src="https://skillicons.dev/icons?i=mysql,aws,gcp&theme=dark"/>
